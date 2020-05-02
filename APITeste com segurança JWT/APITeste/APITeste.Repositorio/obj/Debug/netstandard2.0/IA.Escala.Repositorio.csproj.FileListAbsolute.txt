@@ -1,0 +1,11 @@
+C:\Users\Fabiano\source\repos\IA.Escala\IA.Escala.Repositorio\bin\Debug\netstandard2.0\IA.Escala.Repositorio.deps.json
+C:\Users\Fabiano\source\repos\IA.Escala\IA.Escala.Repositorio\bin\Debug\netstandard2.0\IA.Escala.Repositorio.dll
+C:\Users\Fabiano\source\repos\IA.Escala\IA.Escala.Repositorio\obj\Debug\netstandard2.0\IA.Escala.Repositorio.AssemblyInfoInputs.cache
+C:\Users\Fabiano\source\repos\IA.Escala\IA.Escala.Repositorio\obj\Debug\netstandard2.0\IA.Escala.Repositorio.AssemblyInfo.cs
+C:\Users\Fabiano\source\repos\IA.Escala\IA.Escala.Repositorio\bin\Debug\netstandard2.0\IA.Escala.Repositorio.pdb
+C:\Users\Fabiano\source\repos\IA.Escala\IA.Escala.Repositorio\bin\Debug\netstandard2.0\IA.Escala.Dominio.dll
+C:\Users\Fabiano\source\repos\IA.Escala\IA.Escala.Repositorio\bin\Debug\netstandard2.0\IA.Escala.Dominio.pdb
+C:\Users\Fabiano\source\repos\IA.Escala\IA.Escala.Repositorio\obj\Debug\netstandard2.0\IA.Escala.Repositorio.csprojAssemblyReference.cache
+C:\Users\Fabiano\source\repos\IA.Escala\IA.Escala.Repositorio\obj\Debug\netstandard2.0\IA.Escala.Repositorio.csproj.CopyComplete
+C:\Users\Fabiano\source\repos\IA.Escala\IA.Escala.Repositorio\obj\Debug\netstandard2.0\IA.Escala.Repositorio.dll
+C:\Users\Fabiano\source\repos\IA.Escala\IA.Escala.Repositorio\obj\Debug\netstandard2.0\IA.Escala.Repositorio.pdb

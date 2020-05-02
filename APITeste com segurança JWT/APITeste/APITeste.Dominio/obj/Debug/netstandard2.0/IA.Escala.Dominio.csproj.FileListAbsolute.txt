@@ -1,0 +1,7 @@
+C:\Users\Fabiano\source\repos\IA.Escala\IA.Escala.Dominio\bin\Debug\netstandard2.0\IA.Escala.Dominio.deps.json
+C:\Users\Fabiano\source\repos\IA.Escala\IA.Escala.Dominio\bin\Debug\netstandard2.0\IA.Escala.Dominio.dll
+C:\Users\Fabiano\source\repos\IA.Escala\IA.Escala.Dominio\bin\Debug\netstandard2.0\IA.Escala.Dominio.pdb
+C:\Users\Fabiano\source\repos\IA.Escala\IA.Escala.Dominio\obj\Debug\netstandard2.0\IA.Escala.Dominio.AssemblyInfoInputs.cache
+C:\Users\Fabiano\source\repos\IA.Escala\IA.Escala.Dominio\obj\Debug\netstandard2.0\IA.Escala.Dominio.AssemblyInfo.cs
+C:\Users\Fabiano\source\repos\IA.Escala\IA.Escala.Dominio\obj\Debug\netstandard2.0\IA.Escala.Dominio.dll
+C:\Users\Fabiano\source\repos\IA.Escala\IA.Escala.Dominio\obj\Debug\netstandard2.0\IA.Escala.Dominio.pdb

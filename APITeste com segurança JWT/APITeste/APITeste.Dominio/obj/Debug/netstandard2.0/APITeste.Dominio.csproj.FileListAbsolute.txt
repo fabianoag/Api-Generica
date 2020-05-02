@@ -1,0 +1,15 @@
+C:\Users\Fabiano\Documents\Projetos VS 2019 - teste\APITeste\APITeste.Dominio\bin\Debug\netstandard2.0\APITeste.Dominio.deps.json
+C:\Users\Fabiano\Documents\Projetos VS 2019 - teste\APITeste\APITeste.Dominio\bin\Debug\netstandard2.0\APITeste.Dominio.dll
+C:\Users\Fabiano\Documents\Projetos VS 2019 - teste\APITeste\APITeste.Dominio\bin\Debug\netstandard2.0\APITeste.Dominio.pdb
+C:\Users\Fabiano\Documents\Projetos VS 2019 - teste\APITeste\APITeste.Dominio\obj\Debug\netstandard2.0\APITeste.Dominio.AssemblyInfoInputs.cache
+C:\Users\Fabiano\Documents\Projetos VS 2019 - teste\APITeste\APITeste.Dominio\obj\Debug\netstandard2.0\APITeste.Dominio.AssemblyInfo.cs
+C:\Users\Fabiano\Documents\Projetos VS 2019 - teste\APITeste\APITeste.Dominio\obj\Debug\netstandard2.0\APITeste.Dominio.dll
+C:\Users\Fabiano\Documents\Projetos VS 2019 - teste\APITeste\APITeste.Dominio\obj\Debug\netstandard2.0\APITeste.Dominio.pdb
+C:\Users\Fabiano\Documents\Projetos VS 2019 - teste\APITeste\APITeste\APITeste.Dominio\bin\Debug\netstandard2.0\APITeste.Dominio.deps.json
+C:\Users\Fabiano\Documents\Projetos VS 2019 - teste\APITeste\APITeste\APITeste.Dominio\bin\Debug\netstandard2.0\APITeste.Dominio.dll
+C:\Users\Fabiano\Documents\Projetos VS 2019 - teste\APITeste\APITeste\APITeste.Dominio\bin\Debug\netstandard2.0\APITeste.Dominio.pdb
+C:\Users\Fabiano\Documents\Projetos VS 2019 - teste\APITeste\APITeste\APITeste.Dominio\obj\Debug\netstandard2.0\APITeste.Dominio.AssemblyInfoInputs.cache
+C:\Users\Fabiano\Documents\Projetos VS 2019 - teste\APITeste\APITeste\APITeste.Dominio\obj\Debug\netstandard2.0\APITeste.Dominio.AssemblyInfo.cs
+C:\Users\Fabiano\Documents\Projetos VS 2019 - teste\APITeste\APITeste\APITeste.Dominio\obj\Debug\netstandard2.0\APITeste.Dominio.dll
+C:\Users\Fabiano\Documents\Projetos VS 2019 - teste\APITeste\APITeste\APITeste.Dominio\obj\Debug\netstandard2.0\APITeste.Dominio.pdb
+C:\Users\Fabiano\Documents\Projetos VS 2019 - teste\APITeste\APITeste\APITeste.Dominio\obj\Debug\netstandard2.0\APITeste.Dominio.csprojAssemblyReference.cache
