@@ -7,13 +7,16 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 #region REFERÊNCIAS ADICIONADAS
-using Microsoft.IdentityModel.Tokens;
-using System.Text;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc.Authorization;
-using AutoMapper;
-using APITeste.WebAPI.Helper;
+    using Microsoft.IdentityModel.Tokens;
+    using System.Text;
+    using Microsoft.AspNetCore.Authentication.JwtBearer;
+    using Microsoft.AspNetCore.Authorization;
+    using Microsoft.AspNetCore.Mvc.Authorization;
+    using AutoMapper;
+    using APITeste.WebAPI.Helper;
+    using Microsoft.Extensions.FileProviders;
+    using System.IO;
+    using Microsoft.AspNetCore.Http;
 #endregion
 
 namespace IA.Escala.WebAPI
@@ -117,6 +120,18 @@ namespace IA.Escala.WebAPI
                 app.UseAuthentication();
                 #endregion
                 app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+                #region TRABALHAR COM ARQUIVOS ESTATICOS
+                app.UseStaticFiles();
+
+                // Esta linha abaixo e para configurar o upload.
+                // Nele fala que este projeto trabalha com arquivos statics e mostra
+                // a pasta onde estes arquivos ficam.
+                app.UseStaticFiles(new StaticFileOptions()
+                {
+                    FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), @"Resources")),
+                    RequestPath = new PathString("/Resources")
+                });
+                #endregion  
             #endregion
 
             app.UseHttpsRedirection();

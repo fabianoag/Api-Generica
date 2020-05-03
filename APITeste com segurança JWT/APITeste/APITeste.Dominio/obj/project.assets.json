@@ -285,11 +285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabiano\\Documents\\Projetos VS 2019 - teste\\APITeste\\APITeste\\APITeste.Dominio\\APITeste.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\APITesteCore\\Api-Generica\\APITeste com segurança JWT\\APITeste\\APITeste.Dominio\\APITeste.Dominio.csproj",
       "projectName": "APITeste.Dominio",
-      "projectPath": "C:\\Users\\Fabiano\\Documents\\Projetos VS 2019 - teste\\APITeste\\APITeste\\APITeste.Dominio\\APITeste.Dominio.csproj",
+      "projectPath": "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\APITesteCore\\Api-Generica\\APITeste com segurança JWT\\APITeste\\APITeste.Dominio\\APITeste.Dominio.csproj",
       "packagesPath": "C:\\Users\\Fabiano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabiano\\Documents\\Projetos VS 2019 - teste\\APITeste\\APITeste\\APITeste.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\APITesteCore\\Api-Generica\\APITeste com segurança JWT\\APITeste\\APITeste.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

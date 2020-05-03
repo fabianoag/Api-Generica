@@ -13021,11 +13021,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabiano\\Documents\\Projetos VS 2019 - teste\\APITeste\\APITeste\\APITeste.WebAPI\\APITeste.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\APITesteCore\\Api-Generica\\APITeste com segurança JWT\\APITeste\\APITeste.WebAPI\\APITeste.WebAPI.csproj",
       "projectName": "APITeste.WebAPI",
-      "projectPath": "C:\\Users\\Fabiano\\Documents\\Projetos VS 2019 - teste\\APITeste\\APITeste\\APITeste.WebAPI\\APITeste.WebAPI.csproj",
+      "projectPath": "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\APITesteCore\\Api-Generica\\APITeste com segurança JWT\\APITeste\\APITeste.WebAPI\\APITeste.WebAPI.csproj",
       "packagesPath": "C:\\Users\\Fabiano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabiano\\Documents\\Projetos VS 2019 - teste\\APITeste\\APITeste\\APITeste.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\APITesteCore\\Api-Generica\\APITeste com segurança JWT\\APITeste\\APITeste.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -13046,11 +13046,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Fabiano\\Documents\\Projetos VS 2019 - teste\\APITeste\\APITeste\\APITeste.Dominio\\APITeste.Dominio.csproj": {
-              "projectPath": "C:\\Users\\Fabiano\\Documents\\Projetos VS 2019 - teste\\APITeste\\APITeste\\APITeste.Dominio\\APITeste.Dominio.csproj"
+            "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\APITesteCore\\Api-Generica\\APITeste com segurança JWT\\APITeste\\APITeste.Dominio\\APITeste.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\APITesteCore\\Api-Generica\\APITeste com segurança JWT\\APITeste\\APITeste.Dominio\\APITeste.Dominio.csproj"
             },
-            "C:\\Users\\Fabiano\\Documents\\Projetos VS 2019 - teste\\APITeste\\APITeste\\APITeste.Repositorio\\APITeste.Repositorio.csproj": {
-              "projectPath": "C:\\Users\\Fabiano\\Documents\\Projetos VS 2019 - teste\\APITeste\\APITeste\\APITeste.Repositorio\\APITeste.Repositorio.csproj"
+            "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\APITesteCore\\Api-Generica\\APITeste com segurança JWT\\APITeste\\APITeste.Repositorio\\APITeste.Repositorio.csproj": {
+              "projectPath": "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\APITesteCore\\Api-Generica\\APITeste com segurança JWT\\APITeste\\APITeste.Repositorio\\APITeste.Repositorio.csproj"
             }
           }
         }
