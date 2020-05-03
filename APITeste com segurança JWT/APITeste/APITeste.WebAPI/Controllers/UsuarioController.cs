@@ -17,6 +17,8 @@ using Microsoft.Extensions.Configuration;
 using System.IdentityModel.Tokens.Jwt;
 using APITeste.WebAPI.DTO.UsuarioDTO;
 using AutoMapper;
+using System.IO;
+using System.Net.Http.Headers;
 #endregion
 
 namespace APITeste.WebAPI.Controllers
@@ -89,6 +91,44 @@ namespace APITeste.WebAPI.Controllers
                     user = usuario
                 });
             };
+        }
+
+        [HttpPatch("upload")]
+        [AllowAnonymous]
+        public async Task<IActionResult> upload()
+        {
+            try
+            {
+                var file = Request.Form.Files[0];
+
+                if (file.ContentType == "image/jpeg" || 
+                    file.ContentType == "image/png")
+                {
+                    var folderName = Path.Combine("Resources", "Images");
+                    var pathToSave = Path.Combine(Directory.GetCurrentDirectory(), folderName);
+
+                    if (file.Length > 0)
+                    {
+                        var filename = ContentDispositionHeaderValue.Parse(file.ContentDisposition).FileName;
+                        var fullPath = Path.Combine(pathToSave, filename.Replace("\"", " ").Trim());
+
+                        using (var stream = new FileStream(fullPath, FileMode.Create))
+                        {
+                            file.CopyTo(stream);
+                        }
+                    }
+                    return Ok();
+                }
+
+                var _messageStatus = new messageStatus();
+                _messageStatus.Status = "Unauthorized";
+                _messageStatus.Message = "O arquivo do tipo " + file.ContentType + " não é permitido";
+                return Unauthorized(_messageStatus);
+            }
+            catch (System.Exception)
+            {
+                return Unauthorized();
+            }
         }
 
         /// <summary>
