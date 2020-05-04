@@ -1,0 +1,12 @@
+C:\Users\Fabiano\Documents\Upload GitHub\Api-Generica\VS 2017\APITeste2017\APITeste2017.Repositorio\bin\Debug\netstandard2.0\APITeste2017.Repositorio.deps.json
+C:\Users\Fabiano\Documents\Upload GitHub\Api-Generica\VS 2017\APITeste2017\APITeste2017.Repositorio\bin\Debug\netstandard2.0\APITeste2017.Repositorio.dll
+C:\Users\Fabiano\Documents\Upload GitHub\Api-Generica\VS 2017\APITeste2017\APITeste2017.Repositorio\bin\Debug\netstandard2.0\APITeste2017.Repositorio.pdb
+C:\Users\Fabiano\Documents\Upload GitHub\Api-Generica\VS 2017\APITeste2017\APITeste2017.Repositorio\obj\Debug\netstandard2.0\APITeste2017.Repositorio.csprojAssemblyReference.cache
+C:\Users\Fabiano\Documents\Upload GitHub\Api-Generica\VS 2017\APITeste2017\APITeste2017.Repositorio\obj\Debug\netstandard2.0\APITeste2017.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Documents\Upload GitHub\Api-Generica\VS 2017\APITeste2017\APITeste2017.Repositorio\obj\Debug\netstandard2.0\APITeste2017.Repositorio.AssemblyInfoInputs.cache
+C:\Users\Fabiano\Documents\Upload GitHub\Api-Generica\VS 2017\APITeste2017\APITeste2017.Repositorio\obj\Debug\netstandard2.0\APITeste2017.Repositorio.AssemblyInfo.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Api-Generica\VS 2017\APITeste2017\APITeste2017.Repositorio\obj\Debug\netstandard2.0\APITeste2017.Repositorio.dll
+C:\Users\Fabiano\Documents\Upload GitHub\Api-Generica\VS 2017\APITeste2017\APITeste2017.Repositorio\obj\Debug\netstandard2.0\APITeste2017.Repositorio.pdb
+C:\Users\Fabiano\Documents\Upload GitHub\Api-Generica\VS 2017\APITeste2017\APITeste2017.Repositorio\bin\Debug\netstandard2.0\APITeste2017.Dominio.dll
+C:\Users\Fabiano\Documents\Upload GitHub\Api-Generica\VS 2017\APITeste2017\APITeste2017.Repositorio\bin\Debug\netstandard2.0\APITeste2017.Dominio.pdb
+C:\Users\Fabiano\Documents\Upload GitHub\Api-Generica\VS 2017\APITeste2017\APITeste2017.Repositorio\obj\Debug\netstandard2.0\APITeste2017.Repositorio.csproj.CopyComplete
